@@ -13,7 +13,7 @@
     "areaScores": [
       {
         "id": 2199,
-        "title": "Code",
+        "title": "AUTHORIZATION",
         "scorePercent": 90,
         "scoreLabel": "A",
         "scoreSuccess": "success",
@@ -59,7 +59,7 @@
       },
       {
         "id": 3937,
-        "title": "Documentation",
+        "title": "SECURITY",
         "scorePercent": 75,
         "scoreLabel": "B+",
         "scoreSuccess": "almost-success",
@@ -124,7 +124,7 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "NETWORKING",
         "scorePercent": 50,
         "scoreLabel": "D",
         "scoreSuccess": "partial",
@@ -241,7 +241,7 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "RESILIANCE",
         "scorePercent": 25,
         "scoreLabel": "F",
         "scoreSuccess": "almost-failure",
@@ -299,7 +299,7 @@
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "DEVOPS",
         "scorePercent": 10,
         "scoreLabel": "F",
         "scoreSuccess": "failure",
