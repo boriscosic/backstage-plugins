@@ -2,7 +2,7 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "enterprise-kubernetes"
+      "name": "ngc"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
