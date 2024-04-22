@@ -13,7 +13,7 @@
     "areaScores": [
       {
         "id": 2199,
-        "title": "AUTHORIZATION",
+        "title": "Operational Excellence",
         "scorePercent": 90,
         "scoreLabel": "A",
         "scoreSuccess": "success",
@@ -59,7 +59,7 @@
       },
       {
         "id": 3937,
-        "title": "SECURITY",
+        "title": "Security",
         "scorePercent": 75,
         "scoreLabel": "B+",
         "scoreSuccess": "almost-success",
@@ -124,7 +124,7 @@
       },
       {
         "id": 2208,
-        "title": "NETWORKING",
+        "title": "Performance Efficiency",
         "scorePercent": 50,
         "scoreLabel": "D",
         "scoreSuccess": "partial",
@@ -241,7 +241,7 @@
       },
       {
         "id": 4333,
-        "title": "RESILIANCE",
+        "title": "Reliability",
         "scorePercent": 25,
         "scoreLabel": "F",
         "scoreSuccess": "almost-failure",
@@ -299,7 +299,7 @@
       },
       {
         "id": 4328,
-        "title": "DEVOPS",
+        "title": "Cost Optimization",
         "scorePercent": 10,
         "scoreLabel": "F",
         "scoreSuccess": "failure",
